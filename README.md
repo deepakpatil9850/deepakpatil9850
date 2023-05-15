@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepakpatil9850
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning js and react
+- 👀 I’m interested in Fullstack development
+- 🌱 I’m currently learning Al and ML
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me deepakpatil0999@gmail.com
 

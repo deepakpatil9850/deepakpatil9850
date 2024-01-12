@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deepakpatil9850
+- 👋 Hi, I’m Deepak Patil
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Al and ML
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently looking for job opportunity
+- 💞️ I’m looking for collaboration
 - 📫 How to reach me deepakpatil0999@gmail.com
 
 <!---
